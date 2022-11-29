@@ -5,6 +5,8 @@ VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExtendString", "ExtendString\ExtendString.csproj", "{B33289AC-5164-4185-90A0-3A5EC1E24DEA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LINQFluent", "LINQFluent\LINQFluent.csproj", "{93B13D43-2C50-48AA-BCF8-ED769F208406}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +20,9 @@ Global
 		{B33289AC-5164-4185-90A0-3A5EC1E24DEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B33289AC-5164-4185-90A0-3A5EC1E24DEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B33289AC-5164-4185-90A0-3A5EC1E24DEA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{93B13D43-2C50-48AA-BCF8-ED769F208406}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93B13D43-2C50-48AA-BCF8-ED769F208406}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93B13D43-2C50-48AA-BCF8-ED769F208406}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93B13D43-2C50-48AA-BCF8-ED769F208406}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
